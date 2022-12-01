@@ -76,7 +76,7 @@ h1, h2 {
     width: 100%;
     background: url('../images/hero-image.webp') no-repeat center center;
 
-    /*animates zoom effect on loading page*/
+/*animates zoom effect on loading page*/
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -308,7 +308,7 @@ footer {
         margin: 0 auto;
     }
 
-    #left-about-heading, #right-about-heading {
+    .left-about-heading, .right-about-heading {
         width: inherit;
     }
 
